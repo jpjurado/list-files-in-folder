@@ -2,3 +2,5 @@ C++ program to list all files in folders recursively and write those in a file
 
 g++ list_files.cpp -o list_files
 ./list_files
+
+Source: http://stackoverflow.com/questions/9138866/c-list-all-directories-and-subdirectories-within-in-linux
