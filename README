@@ -1,0 +1,4 @@
+C++ program to list all files in folders recursively and write those in a file
+
+g++ list_files.cpp -o list_files
+./list_files
